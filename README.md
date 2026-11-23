@@ -2,28 +2,22 @@
 
 <p align="center">
   <a href="https://github.com/krichalski">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Kain%C3%A3+%F0%9F%91%8B;Entusiasta+de+Ci%C3%AAncia+de+Dados;Machine+Learning+%7C+LLMs+%7C+Cloud;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Kain%C3%A3;Entusiasta+de+Ci%C3%AAncia+de+Dados;Machine+Learning+%7C+LLMs+%7C+Cloud;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krichalski&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
-  <img src="https://img.shields.io/github/followers/krichalski?label=Seguidores&style=flat&color=0e75b6" alt="seguidores" />
-</p>
+---
+
+## Sobre mim
+
+- Entusiasta de **Ciência de Dados, Machine Learning, Análise de Dados e Cloud**
+- Explorando **LLMs e IA generativa**, como um chatbot sobre a história do Porto de Santos
+- Estudando modelos de classificação, clusterização e sistemas de recomendação
+- Pode me perguntar sobre **Python, análise de dados e machine learning**
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-- 🔭 Entusiasta de **Ciência de Dados, Machine Learning, Análise de Dados e Cloud**
-- 🤖 Explorando **LLMs e IA generativa** — como um chatbot sobre a história do Porto de Santos
-- 🌱 Estudando modelos de classificação, clusterização e sistemas de recomendação
-- 💬 Pode me perguntar sobre **Python, análise de dados e machine learning**
-- ⚡ Curiosidade: gosto de transformar dados em histórias
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,mysql,postgres,git,github,vscode,aws,azure,docker&perline=11" />
@@ -40,36 +34,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [🚢 llm-portodesantos](https://github.com/krichalski/llm-portodesantos) | Chatbot que conta a história do Porto de Santos | Python · LLM |
-| [🎵 RecomendadorSpotify](https://github.com/krichalski/RecomendadorSpotify) | Clusterização para recomendar músicas no Spotify | Python · Jupyter |
-| [🚗 svmstudiescars](https://github.com/krichalski/svmstudiescars) | Estudo da acurácia de classificadores em ML | Python · scikit-learn |
-| [📊 AnaliseExcelIA](https://github.com/krichalski/AnaliseExcelIA) | API da OpenAI para analisar arquivos Excel | Python · OpenAI |
-| [🗄️ dbeccomerce](https://github.com/krichalski/dbeccomerce) | Modelagem de banco de dados de e-commerce | SQL |
-
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krichalski&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krichalski&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krichalski&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krichalski&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🤝 Vamos nos conectar
+## Vamos nos conectar
 
 <p align="center">
   <a href="https://github.com/krichalski"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
