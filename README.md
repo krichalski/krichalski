@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<p align="center"><a href="https://krichalski.github.io"><b>🌐 Conheça meu portfólio interativo → krichalski.github.io</b></a></p>
+
 ---
 
 ## Sobre mim
@@ -37,6 +39,7 @@
 ## Vamos nos conectar
 
 <p align="center">
+  <a href="https://krichalski.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-krichalski.github.io-1c1917?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/krichalski"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kainarichalski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
